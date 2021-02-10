@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+大家好，很高兴在这个机缘巧合的情况下认识大家.
+我叫章嘉伟，来自江西，是一个外表冷静内心善良的好公民。
+在大学，希望通过的自己的努力，能有一个丰富多彩的生活。
+以后请多多指教。
 <!--
 **smallfat-xx/smallfat-xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
